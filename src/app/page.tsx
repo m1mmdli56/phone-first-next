@@ -20,7 +20,7 @@ export default async function Home() {
           >
             {/* Şəkil və fallback */}
             {phone.image ? (
-              <Link href={`https://qiymeti.net/telefon/apple-iphone-15-pro/${phone.id}`}>
+              <Link href={`/iphone/${phone.id}`}>
                 <Image
                   src={phone.image}
                   alt={phone.model}
