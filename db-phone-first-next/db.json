@@ -1,0 +1,49 @@
+{
+  "iphones": [
+    {
+      "model": "iPhone 15 Pro",
+      "storage": ["128GB", "256GB", "512GB", "1TB"],
+      "color": [
+        "Natural Titanium",
+        "Blue Titanium",
+        "White Titanium",
+        "Black Titanium"
+      ],
+      "price": 1199,
+      "releaseYear": 2023,
+      "image": "/image/iphone15pro.jpg"
+    },
+    {
+      "model": "iPhone 15",
+      "storage": ["128GB", "256GB", "512GB"],
+      "color": ["Black", "Blue", "Green", "Yellow", "Pink"],
+      "price": 899,
+      "releaseYear": 2023,
+      "image": "/image/iphone15.jpg"
+    },
+    {
+      "model": "iPhone 14 Pro",
+      "storage": ["128GB", "256GB", "512GB", "1TB"],
+      "color": ["Deep Purple", "Gold", "Silver", "Space Black"],
+      "price": 999,
+      "releaseYear": 2022,
+      "image": "/image/iphone14pro.jpg"
+    },
+    {
+      "model": "iPhone 14",
+      "storage": ["128GB", "256GB", "512GB"],
+      "color": ["Midnight", "Purple", "Starlight", "Blue", "Red"],
+      "price": 799,
+      "releaseYear": 2022,
+      "image": "/image/iphone14.jpg"
+    },
+    {
+      "model": "iPhone 13",
+      "storage": ["128GB", "256GB", "512GB"],
+      "color": ["Pink", "Blue", "Midnight", "Starlight", "Green", "Red"],
+      "price": 699,
+      "releaseYear": 2021,
+      "image": "/image/iphone13.jpg"
+    }
+  ]
+}
